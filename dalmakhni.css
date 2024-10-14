@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 0, 179);
+    background-image:c:\Users\dell\Documents\reepo\college-project\dalmakhni.jpg ;
+
+}
+h1{
+    text-align:center ;
+    color: black;
+    border: 2px solid;
+}
+h2{
+    text-align: center;
+    color: aquamarine;
+    font-size: medium;
+    border: 2px solid;
+}
+h3{
+    text-align: center;
+    color: aqua;
+    border: 2px solid;
+}
+h4{
+    text-align: center;
+    color: bisque;
+    border: 2px  solid;
+
+}
